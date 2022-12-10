@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"model","l":"HashElement"},{"p":"model","l":"HashInterface"},{"p":"model","l":"WordCounter"},{"p":"application","l":"WordCounterApp"}];updateSearchResults();
